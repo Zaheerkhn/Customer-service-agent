@@ -26,7 +26,7 @@ initial_state = {
 async def main_async():
     # Setup constants
     APP_NAME = "Customer Support"
-    USER_ID = "aiwithbrandon"
+    USER_ID = "aiwithzaheer"
 
     # ===== PART 3: Session Creation =====
     # Create a new session with initial state
